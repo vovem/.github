@@ -1,4 +1,4 @@
-## Vovem 👋
+## ~~Vovem~~ 👋
 
 The repository projects have been migrated, please use the link below.
 
